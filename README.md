@@ -37,35 +37,35 @@ Topics Covered:
 
 ## 🔢 Lists
 
-Creating, accessing, updating, deleting elements
+- Creating, accessing, updating, deleting elements
 
-Common methods: .append(), .remove(), .sort(), .reverse(), .index(), .count()
+- Common methods: .append(), .remove(), .sort(), .reverse(), .index(), .count()
 
-List slicing
+- List slicing
 
 ## 📦 Tuples
 
-Immutable data structures
+- Immutable data structures
 
-Tuple methods
+- Tuple methods
 
 ## 🧵 Strings
 
-Indexing and slicing
+- Indexing and slicing
 
-String methods: .upper(), .lower(), .find(), .replace(), .split(), .join()
+- String methods: .upper(), .lower(), .find(), .replace(), .split(), .join()
 
 ## 🔣 Sets
 
-Creation and basic operations: difference, intersection, union
+- Creation and basic operations: difference, intersection, union
 
 ## 🗝️ Dictionaries
 
-Key-value structure
+- Key-value structure
 
-Insertion, deletion, updating
+- Insertion, deletion, updating
 
-Useful methods: .keys(), .values(), .items()
+- Useful methods: .keys(), .values(), .items()
 
 
 # 🔁 Week 3: Flow Controls and Loops
@@ -74,55 +74,55 @@ Topics Covered:
 
 ## 🧩 Conditional Statements
 
-if, elif, else
+- if, elif, else
 
-Nested conditions
+- Nested conditions
 
 ## 🔄 Loops
 
-for loops (range, enumerate)
+- for loops (range, enumerate)
 
-while loops
+- while loops
 
 ## ⏩ Loop Control
 
-break, continue, pass
+- break, continue, pass
 
 ## 🧮 Algorithmic Exercises
 
-Factorial calculation
+- Factorial calculation
 
-Prime number check
+- Prime number check
 
-List scanning examples
+- List scanning examples
 
 # ⚙️ Week 4: Functions & Modular Programming
 
 Topics Covered:
 
-Defining and calling functions
+- Defining and calling functions
 
-Parameters & return values
+- Parameters & return values
 
-Default and keyword parameters
+- Default and keyword parameters
 
-*args and **kwargs
+- *args and **kwargs
 
-Lambda (anonymous) functions
+- Lambda (anonymous) functions
 
-Recursive functions
+- Recursive functions
 
 ## 🧠 Variable Scope
 
-Local and global variables
+- Local and global variables
 
-global and nonlocal keywords
+- global and nonlocal keywords
 
 ## 📦 Modules & Packages
 
-Writing your own module
+- Writing your own module
 
-Understanding package structure: __init__.py, import paths
+- Understanding package structure: __init__.py, import paths
 
 # 🧰 Week 5: OOP, File Operations & Error Handling
 
@@ -130,43 +130,43 @@ Topics Covered:
 
 ## 🧱 Object-Oriented Programming (OOP)
 
-Creating classes and objects
+- Creating classes and objects
 
-__init__, self structure
+- __init__, self structure
 
-Example methods and properties
+- Example methods and properties
 
 ## 🧬 Advanced OOP Concepts
 
-Inheritance and multiple inheritance
+- Inheritance and multiple inheritance
 
-Private methods
+- Private methods
 
-Operator overloading (__str__, __len__, etc.)
+- Operator overloading (__str__, __len__, etc.)
 
 ## 📂 File Operations
 
-Opening, reading, writing, closing files
+-Opening, reading, writing, closing files
 
-Using the with statement
+- Using the with statement
 
-Directory and file operations: os, shutil
+- Directory and file operations: os, shutil
 
 ## 🚨 Error & Exception Handling
 
-try, except, finally
+- try, except, finally
 
-Common error types
+- Common error types
 
-Raising custom exceptions (raise)
+- Raising custom exceptions (raise)
 
 # 🎯 Outcome
 
-By the end of this 5-week training, you’ll be starting your journey into the world of programming with Python.
+- By the end of this 5-week training, you’ll be starting your journey into the world of programming with Python.
 
 
 # 💡 Ideal For
 
-👩‍💻 Beginners who want to learn programming with Python
+- 👩‍💻 Beginners who want to learn programming with Python
 
-🎓 Students preparing for internships or real-world projects
+- 🎓 Students preparing for internships or real-world projects
