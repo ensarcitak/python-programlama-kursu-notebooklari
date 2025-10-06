@@ -35,7 +35,7 @@ Working with modules: import, from ... import ...
 
 Topics Covered:
 
-# 🔢 Lists
+## 🔢 Lists
 
 Creating, accessing, updating, deleting elements
 
@@ -43,23 +43,23 @@ Common methods: .append(), .remove(), .sort(), .reverse(), .index(), .count()
 
 List slicing
 
-# 📦 Tuples
+## 📦 Tuples
 
 Immutable data structures
 
 Tuple methods
 
-# 🧵 Strings
+## 🧵 Strings
 
 Indexing and slicing
 
 String methods: .upper(), .lower(), .find(), .replace(), .split(), .join()
 
-# 🔣 Sets
+## 🔣 Sets
 
 Creation and basic operations: difference, intersection, union
 
-# 🗝️ Dictionaries
+## 🗝️ Dictionaries
 
 Key-value structure
 
@@ -72,23 +72,23 @@ Useful methods: .keys(), .values(), .items()
 
 Topics Covered:
 
-# 🧩 Conditional Statements
+## 🧩 Conditional Statements
 
 if, elif, else
 
 Nested conditions
 
-# 🔄 Loops
+## 🔄 Loops
 
 for loops (range, enumerate)
 
 while loops
 
-# ⏩ Loop Control
+## ⏩ Loop Control
 
 break, continue, pass
 
-# 🧮 Algorithmic Exercises
+## 🧮 Algorithmic Exercises
 
 Factorial calculation
 
@@ -112,13 +112,13 @@ Lambda (anonymous) functions
 
 Recursive functions
 
-# 🧠 Variable Scope
+## 🧠 Variable Scope
 
 Local and global variables
 
 global and nonlocal keywords
 
-# 📦 Modules & Packages
+## 📦 Modules & Packages
 
 Writing your own module
 
@@ -128,7 +128,7 @@ Understanding package structure: __init__.py, import paths
 
 Topics Covered:
 
-# 🧱 Object-Oriented Programming (OOP)
+## 🧱 Object-Oriented Programming (OOP)
 
 Creating classes and objects
 
@@ -136,7 +136,7 @@ __init__, self structure
 
 Example methods and properties
 
-# 🧬 Advanced OOP Concepts
+## 🧬 Advanced OOP Concepts
 
 Inheritance and multiple inheritance
 
@@ -144,7 +144,7 @@ Private methods
 
 Operator overloading (__str__, __len__, etc.)
 
-# 📂 File Operations
+## 📂 File Operations
 
 Opening, reading, writing, closing files
 
@@ -152,7 +152,7 @@ Using the with statement
 
 Directory and file operations: os, shutil
 
-# 🚨 Error & Exception Handling
+## 🚨 Error & Exception Handling
 
 try, except, finally
 
