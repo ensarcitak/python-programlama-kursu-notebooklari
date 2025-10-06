@@ -12,23 +12,23 @@ This course is designed for those starting programming from scratch with Python.
 
 Topics Covered:
 
-Basic syntax and rules
+- Basic syntax and rules
 
-Keywords and identifiers
+- Keywords and identifiers
 
-Variables and data types: int, float, str, bool
+- Variables and data types: int, float, str, bool
 
-Type conversions: int(), str(), float(), bool()
+- Type conversions: int(), str(), float(), bool()
 
-Input/output operations: input(), print()
+- Input/output operations: input(), print()
 
-Operators:
+- Operators:
 
-Arithmetic: +, -, *, /, //, %, **
+  - Arithmetic: +, -, *, /, //, %, **
 
-Comparison & Logical: ==, !=, >, <, and, or, not
+  - Comparison & Logical: ==, !=, >, <, and, or, not
 
-Working with modules: import, from ... import ...
+  - Working with modules: import, from ... import ...
 
 
 # 🧱 Week 2: Data Structures (Lists, Tuples, Dictionaries, Sets)
