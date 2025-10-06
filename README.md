@@ -1,14 +1,14 @@
-# python-programming-course-content
+# Python Programming Course Content
 This repository is created for the Python programming course I teach at Hacettepe University.
 
 
-🐍 Python Course - 5 Week Curriculum
+# 🐍 Python Course - 5 Week Curriculum
 
 Welcome to the 5-Week Python Training Program!
 This course is designed for those starting programming from scratch with Python.
 
 
-📅 Week 1: Introduction to Python & Basic Structures
+# 📅 Week 1: Introduction to Python & Basic Structures
 
 Topics Covered:
 
@@ -31,11 +31,11 @@ Comparison & Logical: ==, !=, >, <, and, or, not
 Working with modules: import, from ... import ...
 
 
-🧱 Week 2: Data Structures (Lists, Tuples, Dictionaries, Sets)
+# 🧱 Week 2: Data Structures (Lists, Tuples, Dictionaries, Sets)
 
 Topics Covered:
 
-🔢 Lists
+# 🔢 Lists
 
 Creating, accessing, updating, deleting elements
 
@@ -43,23 +43,23 @@ Common methods: .append(), .remove(), .sort(), .reverse(), .index(), .count()
 
 List slicing
 
-📦 Tuples
+# 📦 Tuples
 
 Immutable data structures
 
 Tuple methods
 
-🧵 Strings
+# 🧵 Strings
 
 Indexing and slicing
 
 String methods: .upper(), .lower(), .find(), .replace(), .split(), .join()
 
-🔣 Sets
+# 🔣 Sets
 
 Creation and basic operations: difference, intersection, union
 
-🗝️ Dictionaries
+# 🗝️ Dictionaries
 
 Key-value structure
 
@@ -68,27 +68,27 @@ Insertion, deletion, updating
 Useful methods: .keys(), .values(), .items()
 
 
-🔁 Week 3: Flow Controls and Loops
+# 🔁 Week 3: Flow Controls and Loops
 
 Topics Covered:
 
-🧩 Conditional Statements
+# 🧩 Conditional Statements
 
 if, elif, else
 
 Nested conditions
 
-🔄 Loops
+# 🔄 Loops
 
 for loops (range, enumerate)
 
 while loops
 
-⏩ Loop Control
+# ⏩ Loop Control
 
 break, continue, pass
 
-🧮 Algorithmic Exercises
+# 🧮 Algorithmic Exercises
 
 Factorial calculation
 
@@ -96,7 +96,7 @@ Prime number check
 
 List scanning examples
 
-⚙️ Week 4: Functions & Modular Programming
+# ⚙️ Week 4: Functions & Modular Programming
 
 Topics Covered:
 
@@ -112,23 +112,23 @@ Lambda (anonymous) functions
 
 Recursive functions
 
-🧠 Variable Scope
+# 🧠 Variable Scope
 
 Local and global variables
 
 global and nonlocal keywords
 
-📦 Modules & Packages
+# 📦 Modules & Packages
 
 Writing your own module
 
 Understanding package structure: __init__.py, import paths
 
-🧰 Week 5: OOP, File Operations & Error Handling
+# 🧰 Week 5: OOP, File Operations & Error Handling
 
 Topics Covered:
 
-🧱 Object-Oriented Programming (OOP)
+# 🧱 Object-Oriented Programming (OOP)
 
 Creating classes and objects
 
@@ -136,7 +136,7 @@ __init__, self structure
 
 Example methods and properties
 
-🧬 Advanced OOP Concepts
+# 🧬 Advanced OOP Concepts
 
 Inheritance and multiple inheritance
 
@@ -144,7 +144,7 @@ Private methods
 
 Operator overloading (__str__, __len__, etc.)
 
-📂 File Operations
+# 📂 File Operations
 
 Opening, reading, writing, closing files
 
@@ -152,7 +152,7 @@ Using the with statement
 
 Directory and file operations: os, shutil
 
-🚨 Error & Exception Handling
+# 🚨 Error & Exception Handling
 
 try, except, finally
 
@@ -160,12 +160,12 @@ Common error types
 
 Raising custom exceptions (raise)
 
-🎯 Outcome
+# 🎯 Outcome
 
 By the end of this 5-week training, you’ll be starting your journey into the world of programming with Python.
 
 
-💡 Ideal For
+# 💡 Ideal For
 
 👩‍💻 Beginners who want to learn programming with Python
 
