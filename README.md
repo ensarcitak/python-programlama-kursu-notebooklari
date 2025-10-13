@@ -154,7 +154,7 @@ Bu kurs, programlamaya sıfırdan Python ile başlamak isteyenler için tasarlan
 
 - Dizin ve dosya işlemleri: os, shutil
 
-## 🚨 Hata ve İstisna Yönetimi
+## 🚨 Exception Yönetimi
 
 - try, except, finally
 
@@ -171,5 +171,3 @@ Bu kurs, programlamaya sıfırdan Python ile başlamak isteyenler için tasarlan
 # 💡 Kimler İçin Uygun
 
 - 👩‍💻 Python ile programlamayı öğrenmek isteyen yeni başlayanlar
-
-- 🎓 Stajlara veya gerçek dünya projelerine hazırlanan öğrenciler
