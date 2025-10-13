@@ -1,172 +1,175 @@
-# Python Programming Course Content
-This repository is created for the Python programming course I teach at Hacettepe University.
+# Python Programlama Kurs İçeriği
+Bu repo, Hacettepe Üniversitesi'nde verdiğim Python programlama kursu için oluşturulmuştur.
 
 
-# 🐍 Python Course - 5 Week Curriculum
+# 🐍 Python Kursu - 5 Haftalık Müfredat
 
-Welcome to the 5-Week Python Training Program!
-This course is designed for those starting programming from scratch with Python.
-
-
-# 📅 Week 1: Introduction to Python & Basic Structures
-
-Topics Covered:
-
-- Basic syntax and rules
-
-- Keywords and identifiers
-
-- Variables and data types: int, float, str, bool
-
-- Type conversions: int(), str(), float(), bool()
-
-- Input/output operations: input(), print()
-
-- Operators:
-
-  - Arithmetic: +, -, *, /, //, %, **
-
-  - Comparison & Logical: ==, !=, >, <, and, or, not
-
-  - Working with modules: import, from ... import ...
+5 Haftalık Python Eğitim Programına Hoş Geldiniz!  
+Bu kurs, programlamaya sıfırdan Python ile başlamak isteyenler için tasarlanmıştır.
 
 
-# 🧱 Week 2: Data Structures (Lists, Tuples, Dictionaries, Sets)
+# 📅 1. Hafta: Python’a Giriş ve Temel Yapılar
 
-Topics Covered:
+İşlenen Konular:
 
-## 🔢 Lists
+- Temel sözdizimi ve kurallar
 
-- Creating, accessing, updating, deleting elements
+- Anahtar kelimeler ve tanımlayıcılar
 
-- Common methods: .append(), .remove(), .sort(), .reverse(), .index(), .count()
+- Değişkenler ve veri tipleri: int, float, str, bool
 
-- List slicing
+- Tip dönüşümleri: int(), str(), float(), bool()
 
-## 📦 Tuples
+- Girdi/çıktı işlemleri: input(), print()
 
-- Immutable data structures
+- Operatörler:
 
-- Tuple methods
+  - Aritmetik: +, -, *, /, //, %, **
 
-## 🧵 Strings
+  - Karşılaştırma ve Mantıksal: ==, !=, >, <, and, or, not
 
-- Indexing and slicing
-
-- String methods: .upper(), .lower(), .find(), .replace(), .split(), .join()
-
-## 🔣 Sets
-
-- Creation and basic operations: difference, intersection, union
-
-## 🗝️ Dictionaries
-
-- Key-value structure
-
-- Insertion, deletion, updating
-
-- Useful methods: .keys(), .values(), .items()
+  - Modüllerle çalışma: import, from ... import ...
 
 
-# 🔁 Week 3: Flow Controls and Loops
+# 🧱 2. Hafta: Veri Yapıları (Listeler, Demetler, Sözlükler, Kümeler)
 
-Topics Covered:
+İşlenen Konular:
 
-## 🧩 Conditional Statements
+## 🔢 Listeler
+
+- Oluşturma, erişim, güncelleme, silme
+
+- Yaygın metodlar: .append(), .remove(), .sort(), .reverse(), .index(), .count()
+
+- Liste dilimleme
+
+## 📦 Demetler (Tuples)
+
+- Değiştirilemez veri yapıları
+
+- Demet metodları
+
+## 🧵 Stringler
+
+- İndeksleme ve dilimleme
+
+- String metodları: .upper(), .lower(), .find(), .replace(), .split(), .join()
+
+## 🔣 Setler
+
+- Oluşturma ve temel işlemler: difference, intersection, union
+
+## 🗝️ Sözlükler (Dictionaries)
+
+- Anahtar-değer yapısı
+
+- Ekleme, silme, güncelleme
+
+- Faydalı metodlar: .keys(), .values(), .items()
+
+
+# 🔁 3. Hafta: Akış Kontrolleri ve Döngüler
+
+İşlenen Konular:
+
+## 🧩 Koşul İfadeleri
 
 - if, elif, else
 
-- Nested conditions
+- İç içe koşullar
 
-## 🔄 Loops
+## 🔄 Döngüler
 
-- for loops (range, enumerate)
+- for döngüleri (range, enumerate)
 
-- while loops
+- while döngüleri
 
-## ⏩ Loop Control
+## ⏩ Döngü Kontrolü
 
 - break, continue, pass
 
-## 🧮 Algorithmic Exercises
+## 🧮 Algoritmik Alıştırmalar
 
-- Factorial calculation
+- Faktöriyel hesaplama
 
-- Prime number check
+- Asal sayı kontrolü
 
-- List scanning examples
+- Liste tarama örnekleri
 
-# ⚙️ Week 4: Functions & Modular Programming
 
-Topics Covered:
+# ⚙️ 4. Hafta: Fonksiyonlar ve Modüler Programlama
 
-- Defining and calling functions
+İşlenen Konular:
 
-- Parameters & return values
+- Fonksiyon tanımlama ve çağırma
 
-- Default and keyword parameters
+- Parametreler ve dönüş değerleri
 
-- *args and **kwargs
+- Varsayılan ve anahtar parametreler
 
-- Lambda (anonymous) functions
+- *args ve **kwargs
 
-- Recursive functions
+- Lambda (anonim) fonksiyonlar
 
-## 🧠 Variable Scope
+- Özyinelemeli (recursive) fonksiyonlar
 
-- Local and global variables
+## 🧠 Değişken Kapsamı
 
-- global and nonlocal keywords
+- Yerel ve global değişkenler
 
-## 📦 Modules & Packages
+- global ve nonlocal anahtar kelimeleri
 
-- Writing your own module
+## 📦 Modüller ve Paketler
 
-- Understanding package structure: __init__.py, import paths
+- Kendi modülünü yazma
 
-# 🧰 Week 5: OOP, File Operations & Error Handling
+- Paket yapısını anlama: __init__.py, import yolları
 
-Topics Covered:
 
-## 🧱 Object-Oriented Programming (OOP)
+# 🧰 5. Hafta: Nesne Yönelimli Programlama (OOP), Dosya İşlemleri ve Hata Yönetimi
 
-- Creating classes and objects
+İşlenen Konular:
 
-- __init__, self structure
+## 🧱 Nesne Yönelimli Programlama (OOP)
 
-- Example methods and properties
+- Sınıf ve nesne oluşturma
 
-## 🧬 Advanced OOP Concepts
+- __init__, self yapısı
 
-- Inheritance and multiple inheritance
+- Örnek metodlar ve özellikler
 
-- Private methods
+## 🧬 İleri OOP Kavramları
 
-- Operator overloading (__str__, __len__, etc.)
+- Kalıtım ve çoklu kalıtım
 
-## 📂 File Operations
+- Özel (private) metodlar
 
--Opening, reading, writing, closing files
+- Operatör aşırı yükleme (__str__, __len__, vb.)
 
-- Using the with statement
+## 📂 Dosya İşlemleri
 
-- Directory and file operations: os, shutil
+- Dosya açma, okuma, yazma, kapatma
 
-## 🚨 Error & Exception Handling
+- with ifadesini kullanma
+
+- Dizin ve dosya işlemleri: os, shutil
+
+## 🚨 Hata ve İstisna Yönetimi
 
 - try, except, finally
 
-- Common error types
+- Yaygın hata türleri
 
-- Raising custom exceptions (raise)
-
-# 🎯 Outcome
-
-- By the end of this 5-week training, you’ll be starting your journey into the world of programming with Python.
+- Özel hata fırlatma (raise)
 
 
-# 💡 Ideal For
+# 🎯 Kazanımlar
 
-- 👩‍💻 Beginners who want to learn programming with Python
+- Bu 5 haftalık eğitimin sonunda Python ile programlama dünyasına adım atmış olacaksınız.
 
-- 🎓 Students preparing for internships or real-world projects
+
+# 💡 Kimler İçin Uygun
+
+- 👩‍💻 Python ile programlamayı öğrenmek isteyen yeni başlayanlar
+
+- 🎓 Stajlara veya gerçek dünya projelerine hazırlanan öğrenciler
